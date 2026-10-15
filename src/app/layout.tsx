@@ -11,9 +11,9 @@ export const metadata: Metadata = {
   title: siteConfig.name || "Kantor Hukum",
   description: siteConfig.tagline || undefined,
   icons: {
-    icon: "/logo.jpeg",
-    shortcut: "/logo.jpeg",
-    apple: "/logo.jpeg",
+    icon: "/logo-circle.png",
+    shortcut: "/logo-circle.png",
+    apple: "/logo-circle.png",
   },
   robots: {
     index: true,
