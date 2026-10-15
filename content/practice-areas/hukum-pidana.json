@@ -1,0 +1,41 @@
+{
+  "slug": "hukum-pidana",
+  "title": "Hukum Pidana",
+  "summary": "Pendampingan hukum komprehensif pada setiap tahapan proses peradilan pidana, baik pidana umum maupun pidana khusus.",
+  "description": "Kami memberikan layanan pendampingan dan pembelaan hukum bagi klien yang menghadapi permasalahan pidana, mulai dari proses penyelidikan, penyidikan di Kepolisian/Kejaksaan, hingga persidangan di Pengadilan Negeri dan upaya hukum banding maupun kasasi.",
+  "services": [
+    "Pendampingan saksi dan tersangka di Kepolisian & Kejaksaan",
+    "Penyusunan pembelaan (Pleidoi) di Pengadilan",
+    "Pengajuan praperadilan",
+    "Permohonan penangguhan penahanan",
+    "Upaya hukum Banding, Kasasi, dan Peninjauan Kembali (PK)"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Kajian Perkara Awal",
+      "description": "Menelaah surat panggilan, laporan polisi, dan kronologi kejadian."
+    },
+    {
+      "step": 2,
+      "title": "Pendampingan Pemeriksaan",
+      "description": "Memastikan hak-hak tersangka/saksi terlindungi selama proses BAP."
+    },
+    {
+      "step": 3,
+      "title": "Pembelaan di Persidangan",
+      "description": "Menyusun strategi eksepsi, pembuktian, dan nota pembelaan di pengadilan."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Apakah saya berhak didampingi advokat saat diperiksa polisi?",
+      "answer": "Ya, sesuai KUHAP, setiap orang yang disangka melakukan tindak pidana berhak mendapatkan bantuan hukum dan didampingi advokat pada setiap tingkat pemeriksaan."
+    },
+    {
+      "question": "Kapan sebaiknya menghubungi advokat?",
+      "answer": "Sebaiknya segera menghubungi advokat sebelum memberikan keterangan atau menandatangani Berita Acara Pemeriksaan (BAP)."
+    }
+  ],
+  "order": 1
+}

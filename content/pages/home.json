@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "heading": "Pendampingan Hukum Berintegritas & Profesional",
+    "subheading": "Kantor Hukum Sugiyono, SE., SH., MH & Rekan memberikan solusi dan advokasi hukum terpercaya untuk perlindungan hak serta kepentingan hukum Anda.",
+    "ctaText": "Konsultasi via WhatsApp",
+    "ctaHref": "https://wa.me/6281234567890"
+  },
+  "approach": [
+    {
+      "title": "Integritas & Kerahasiaan",
+      "description": "Menjaga kepercayaan dan kerahasiaan klien sebagai prioritas utama dalam setiap penanganan perkara sesuai kode etik advokat."
+    },
+    {
+      "title": "Pendekatan Strategis",
+      "description": "Menganalisis setiap permasalahan dari sudut pandang yuridis menyeluruh guna menemukan penyelesaian hukum yang paling efektif."
+    },
+    {
+      "title": "Dedikasi & Responsif",
+      "description": "Memberikan pendampingan yang fokus, komunikatif, dan transparan dalam setiap tahapan proses hukum."
+    }
+  ],
+  "howItWorks": [
+    {
+      "step": 1,
+      "title": "Konsultasi Awal",
+      "description": "Sampaikan permasalahan hukum Anda secara langsung atau melalui WhatsApp untuk penelaahan awal."
+    },
+    {
+      "step": 2,
+      "title": "Analisis Dokumen & Fakta Hukum",
+      "description": "Tim kami mempelajari kronologi, dokumen pendukung, dan bukti hukum yang relevan."
+    },
+    {
+      "step": 3,
+      "title": "Penyusunan Strategi & Advokasi",
+      "description": "Merumuskan langkah litigasi maupun non-litigasi terbaik demi memperjuangkan hak hukum Anda."
+    }
+  ],
+  "ctaHeading": "Butuh Konsultasi atau Pendampingan Hukum Segera?",
+  "ctaText": "Hubungi Kami via WhatsApp"
+}

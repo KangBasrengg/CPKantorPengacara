@@ -1,0 +1,36 @@
+{
+  "slug": "ketenagakerjaan",
+  "title": "Hukum Ketenagakerjaan",
+  "summary": "Penyelesaian perselisihan hubungan industrial (PHI), perjanjian kerja, dan hak-hak ketenagakerjaan.",
+  "description": "Memberikan pendampingan hukum baik bagi perusahaan maupun tenaga kerja dalam menghadapi persoalan ketenagakerjaan secara adil dan sesuai Undang-Undang Ketenagakerjaan.",
+  "services": [
+    "Penyusunan Peraturan Perusahaan (PP) & Perjanjian Kerja Bersama (PKB)",
+    "Penyelesaian perselisihan PHK dan pesangon",
+    "Perundingan Bipartit dan Mediasi Tripartit Disnaker",
+    "Gugatan dan persidangan di Pengadilan Hubungan Industrial (PHI)"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Klarifikasi Masalah & Perundingan Bipartit",
+      "description": "Mengupayakan musyawarah antara pekerja dan manajemen."
+    },
+    {
+      "step": 2,
+      "title": "Mediasi Hubungan Industrial",
+      "description": "Menghadiri panggilan mediasi di Dinas Tenaga Kerja setempat."
+    },
+    {
+      "step": 3,
+      "title": "Persidangan di Pengadilan Hubungan Industrial",
+      "description": "Melakukan pembelaan hak di hadapan Majelis Hakim PHI."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Apakah mediasi Disnaker wajib sebelum ke pengadilan PHI?",
+      "answer": "Ya, proses mediasi melalui Disnaker adalah tahapan wajib sebelum perkara dapat didaftarkan ke Pengadilan Hubungan Industrial."
+    }
+  ],
+  "order": 4
+}

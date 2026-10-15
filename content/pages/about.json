@@ -1,0 +1,36 @@
+{
+  "profile": {
+    "title": "Profil Kantor Hukum",
+    "content": "Kantor Hukum Sugiyono, SE., SH., MH & Rekan merupakan kantor advokat dan konsultan hukum yang berkedudukan di Semarang. Kami berkomitmen memberikan layanan jasa hukum berkualitas tinggi, berpegang teguh pada prinsip keadilan, profesionalisme, dan integritas moral profesi advokat."
+  },
+  "vision": {
+    "title": "Visi",
+    "content": "Menjadi kantor hukum terkemuka yang tepercaya dalam memberikan kepastian dan perlindungan hukum bagi para pencari keadilan maupun pelaku usaha."
+  },
+  "mission": {
+    "title": "Misi",
+    "content": "Menyediakan layanan advokasi hukum yang cermat, menjunjung tinggi kode etik advokat Indonesia, serta memperjuangkan hak-hak hukum klien secara optimal dan berkeadilan."
+  },
+  "values": [
+    {
+      "title": "Integritas & Kejujuran",
+      "description": "Menjalankan profesi dengan moralitas tinggi dan objektivitas hukum."
+    },
+    {
+      "title": "Profesionalisme",
+      "description": "Bekerja berdasarkan keilmuan, ketelitian fakta, dan peraturan perundang-undangan."
+    },
+    {
+      "title": "Kerahasiaan Klien",
+      "description": "Menjamin kerahasiaan seluruh dokumen dan informasi perkara klien."
+    },
+    {
+      "title": "Solutif & Berkeadilan",
+      "description": "Fokus pada solusi hukum yang memberikan manfaat terbaik bagi klien."
+    }
+  ],
+  "legality": {
+    "title": "Legalitas & Organisasi",
+    "content": "Advokat pada Kantor Hukum Sugiyono, SE., SH., MH & Rekan berlisensi resmi dan tergabung dalam organisasi advokat Perhimpunan Advokat Indonesia (PERADI)."
+  }
+}

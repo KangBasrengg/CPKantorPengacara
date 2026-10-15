@@ -1,0 +1,37 @@
+{
+  "slug": "hukum-bisnis",
+  "title": "Hukum Bisnis & Korporasi",
+  "summary": "Layanan legal corporate, audit kepatuhan hukum, perizinan berusaha, dan mitigasi risiko hukum bisnis.",
+  "description": "Membantu pelaku usaha memastikan setiap kegiatan operasional dan transaksi komersial berjalan aman, patuh regulasi, serta meminimalisasi potensi risiko sengketa di kemudian hari.",
+  "services": [
+    "Legal drafting & review kontrak bisnis / kerja sama",
+    "Legal audit / due diligence perusahaan",
+    "Konsultasi struktur kepemilikan dan perizinan usaha",
+    "Penyelesaian sengketa pemegang saham dan kemitraan",
+    "Retainer lawyer (penasihat hukum tetap perusahaan)"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Identifikasi Kebutuhan Legal",
+      "description": "Menelaah model bisnis, transaksi yang akan dilakukan, dan regulasi terkait."
+    },
+    {
+      "step": 2,
+      "title": "Penyusunan Instrumen Hukum",
+      "description": "Membuat draft perjanjian yang melindungi hak dan kepentingan klien."
+    },
+    {
+      "step": 3,
+      "title": "Pendampingan Negosiasi",
+      "description": "Mendampingi proses penandatanganan dan implementasi kontrak."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Apa keuntungan memiliki penasihat hukum tetap (retainer lawyer)?",
+      "answer": "Perusahaan mendapatkan perlindungan preventif berkelanjutan sebelum timbul masalah hukum besar yang membutuhkan biaya dan waktu jauh lebih besar."
+    }
+  ],
+  "order": 3
+}

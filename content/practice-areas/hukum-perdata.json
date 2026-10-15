@@ -1,0 +1,37 @@
+{
+  "slug": "hukum-perdata",
+  "title": "Hukum Perdata & Sengketa Kontrak",
+  "summary": "Penyelesaian sengketa perdata, wanprestasi, perbuatan melawan hukum (PMH), utang piutang, dan sengketa kebendaan.",
+  "description": "Kami membantu perorangan maupun korporasi dalam menyelesaikan konflik keperdataan secara musyawarah (mediasi/negosiasi) maupun melalui proses litigasi di Pengadilan Negeri.",
+  "services": [
+    "Gugatan wanprestasi dan ganti rugi",
+    "Gugatan perbuatan melawan hukum (PMH)",
+    "Penyelesaian sengketa tanah & kepemilikan properti",
+    "Penyusunan somasi dan mediasi para pihak",
+    "Eksekusi putusan pengadilan berkekuatan hukum tetap"
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Review Perjanjian & Bukti",
+      "description": "Pemeriksaan klausul kontrak, bukti pembayaran, dan komunikasi para pihak."
+    },
+    {
+      "step": 2,
+      "title": "Upaya Non-Litigasi (Somasi & Mediasi)",
+      "description": "Mengirimkan somasi dan mengupayakan musyawarah mufakat."
+    },
+    {
+      "step": 3,
+      "title": "Litigasi Pengadilan",
+      "description": "Mendaftarkan gugatan dan mengawal proses persidangan hingga putusan."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Apakah setiap sengketa perdata harus masuk pengadilan?",
+      "answer": "Tidak. Kami selalu mengutamakan jalur non-litigasi seperti negosiasi dan mediasi terlebih dahulu agar penyelesaian lebih cepat dan efisien bagi klien."
+    }
+  ],
+  "order": 2
+}

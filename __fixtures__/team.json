@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "contoh-advokat-1",
+    "name": "Nama Contoh Advokat 1, SH",
+    "title": "Advokat Contoh",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "education": [
+      "S1 Ilmu Hukum - Universitas Contoh"
+    ],
+    "experience": [
+      "Praktik Advokat sejak 2020"
+    ],
+    "expertise": [
+      "Hukum Pidana",
+      "Hukum Perdata"
+    ],
+    "credentials": [
+      "Advokat Organisasi Contoh"
+    ],
+    "order": 1
+  }
+]
